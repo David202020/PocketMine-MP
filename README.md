@@ -1,4 +1,4 @@
-# [![PocketMine-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)](https://pmmp.io)
+# [![WitherBox]
 
 __A highly customisable, open source server software for Minecraft: Pocket Edition written in PHP__
 
